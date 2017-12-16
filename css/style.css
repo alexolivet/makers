@@ -44,3 +44,11 @@ sup {
     padding-bottom: 10px;
     border: 0;
 }
+
+.horizontal_icons {
+    display: inline
+}
+
+.navbar-fixed {
+    z-index: 999;
+}
